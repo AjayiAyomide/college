@@ -1,0 +1,62 @@
+
+body{
+    background-size: auto;
+    background:white;
+    font-size:large
+}
+.head{
+    text-align: center;
+    font-size:25mm;
+    color: blue;
+    font: xx-large;
+}
+.navbar{
+    background:darkblue;
+    height: 12mm;
+    display: inline-flex;
+}
+.About{
+    text-align: center;
+    font:bolder;
+    color: black;
+    font-size: xx-large;
+    font: outline;
+}
+.navbar-brand{
+    font: bolder;
+    font-size: 10mm;
+    text-shadow: darkred;
+}
+.row{
+    display: inline-flex;
+}
+.col-md-3{
+    display: inline-flex;
+    background:white;
+    height: 12mm;
+}
+.nav-link{
+    color: white;
+    display: inline-flex;
+    text-align: center;
+}
+.welcome{
+    text-align: center;
+    font-size: xx-large;
+}
+.search{
+    background: blue;
+}
+.gallery{
+    font: bolder;
+    font-size:xx-large;
+    text-align: center;
+}
+.Art Laboratory{
+    font: bolder;
+    font-size: xx-large;
+}
+.row2{
+    height: 50mm;
+    display: inline-flex;
+}
